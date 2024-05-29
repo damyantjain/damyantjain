@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/SRsBxH2/Screenshot-2024-05-08-at-7-43-38-AM.png)](https://www.linkedin.com/in/damyant/)
+[![MasterHead](https://i.postimg.cc/NMxpfsK6/Screenshot-2024-05-29-at-6-42-56-PM.png)](https://www.linkedin.com/in/damyant/)
 <h1 align="center">Hi 👋, I'm Damyant Jain</h1>
 <h3 align="center">Learning, one line at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
