@@ -31,7 +31,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="border: none; text-decoration: none;" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="border: none; text-decoration: none;" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border: none; text-decoration: none;" /> 
@@ -46,5 +46,10 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border: none; text-decoration: none;" /> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="border: none; text-decoration: none;" /> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border: none; text-decoration: none;" /> 
+</p> -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,css,html,postgres,mysql,mongodb,express,github,js,linux,nodejs,spring,postman,react,redux,ts,vscode,aws&perline=14" />
+  </a>
 </p>
