@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 align="center">Hi 👋, I'm Damyant</h1></summary>
-    <h4 align="center">MS in Computer Science @ Northeastern University, Boston | ex-SDE @ West Pharmaceutical Services</h4>
+    <h4 align="center">SDE Co-op @ Phillips | MS in CS @ Northeastern University, Boston | ex-SDE @ West Pharmaceutical Services</h4>
   </ul>
 </div>
 
