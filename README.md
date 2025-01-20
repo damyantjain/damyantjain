@@ -8,11 +8,11 @@
 
 <h3 align="center">Learning, one line at a time.</h3>
 
-- I’m currently learning **Swift**
-
 - Ask me about **.NET, OOP, Web Development**
 
 - My email - **jain.dam@northeastern.edu**
+
+- My portfolio - [**damyantjain.com**](https://damyantjain.com/)
 
 <p align="center">
   <!--- stats (start) -->
